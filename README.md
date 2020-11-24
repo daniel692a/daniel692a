@@ -1,6 +1,8 @@
-### Hi, my name is Daniel Armas👋
+# Hi, my name is Daniel Armas👋
 
-## I´m currently working on @Actosoft💻⚛️ 
+## I´m currently working on Actosoft💻 
+
+## Focused on React ⚛️ & Angular 👨‍💻
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
