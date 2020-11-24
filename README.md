@@ -13,7 +13,7 @@
     <li>Styled-Components💅</li>
   </ul>
   </div>
-<h2 align="right">Focused in Angular & Flutter🤫</h2>
+<h2 align="right">Focused in Angular & Flutter🤫, Love Data Science📊</h2>
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
