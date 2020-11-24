@@ -1,4 +1,4 @@
-<h1 style:"text-align: center">Hi there, my name is Daniel Armas👋</h1>
+<h1 align="center">Hi there, my name is Daniel Armas👋</h1>
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
