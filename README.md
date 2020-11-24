@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, my name is Daniel Armas👋</h1>
 <h2 align="center">Frontend Developer in Actosoft 👨‍💻</h2>
-<img src=https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" alt="Coding" width="20" height="20"/>
+<img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="20" height="20"/>
 <h3>Skills🚀</h3>
 <ul>
   <li>Javascript</li>
