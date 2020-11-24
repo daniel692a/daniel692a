@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, my name is Daniel Armas👋</h1>
 <h2 align="center">Frontend Developer in Actosoft 👨‍💻</h2>
-<div style="display: flex; flex-direction: row;">
-  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="600" height="600"/>
+  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="400" height="400" align="center"/>
   <h3>Skills🚀</h3>
   <ul>
     <li>Javascript</li>
@@ -12,7 +11,6 @@
     <li>CSS</li>
     <li>Styled-Components💅</li>
   </ul>
-</div>
 <h2 align="right">Focused in Angular & Flutter🤫</h2>
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
