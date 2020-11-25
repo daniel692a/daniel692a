@@ -3,13 +3,14 @@
   <img align='right' src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
   <div align='left'>
   <h3>Skills🚀</h3>
-  <ul>
+  <ul style="font-size: 1.2em;">
     <li>Javascript</li>
+    <li>Typescript</li>
+    <li>Python🐍</li>
+    <li>HTML📦</li>
+    <li>CSS📱</li>
     <li>Node.js💻</li>
     <li>React.js⚛️</li>
-    <li>Python🐍</li>
-    <li>HTML</li>
-    <li>CSS</li>
     <li>Styled-Components💅</li>
   </ul>
   </div>
