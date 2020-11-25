@@ -2,8 +2,8 @@
 <h2 align="center">Frontend Developer👨‍💻</h2>
   <img align='right' src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
   <div align='left'>
-  <h3>Skills🚀</h3>
-  <ul style="font-size: 1.2em;">
+  <h2>Skills🚀</h2>
+  <ul style="font-size: 16px;">
     <li>Javascript</li>
     <li>Typescript</li>
     <li>Python🐍</li>
