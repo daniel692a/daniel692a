@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, my name is Daniel Armas👋</h1>
-<h2 align="center">Frontend Developer in Actosoft 👨‍💻</h2>
+<h2 align="center">Frontend Developer👨‍💻</h2>
   <img align='right' src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
   <div align='left'>
   <h3>Skills🚀</h3>
