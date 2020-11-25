@@ -16,13 +16,12 @@
   <div align='left'>
     <h2>CSS Frameworks</h2>
     <ul style='font-size: 16px'>
-      <li>Styled-Components💅</li>
       <li>MaterializeⓂ️</li>
       <li>Bootstrap🅱️</li>
       <li>Ant Design🐜</li>
     </ul>
   </div>
-<h2 align='right'>Focused in Angular & Flutter🤫, Love Data Science📊</h2>
+<h2 align='right'>Focused on Angular & Flutter🤫,I Love Data Science📊</h2>
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
