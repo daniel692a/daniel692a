@@ -2,19 +2,19 @@
 <h2 align="center">Frontend Developer👨‍💻</h2>
   <img align='right' src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
   <div align='left'>
-  <h2>Skills🚀</h2>
-  <ul style="font-size: 16px;">
-    <li>Javascript</li>
-    <li>Typescript</li>
-    <li>Python🐍</li>
-    <li>HTML📦</li>
-    <li>CSS📱</li>
-    <li>Node.js💻</li>
-    <li>React.js⚛️</li>
-    <li>Styled-Components💅</li>
-  </ul>
+    <h2>Skills🚀</h2>
+    <ul style='font-size: 16px'>
+      <li>Javascript</li>
+      <li>Typescript</li>
+      <li>Python🐍</li>
+      <li>HTML📦</li>
+      <li>CSS📱</li>
+      <li>Node.js💻</li>
+      <li>React.js⚛️</li>
+      <li>Styled-Components💅</li>
+    </ul>
   </div>
-<h2 align="right">Focused in Angular & Flutter🤫, Love Data Science📊</h2>
+<h2 align='right'>Focused in Angular & Flutter🤫, Love Data Science📊</h2>
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
