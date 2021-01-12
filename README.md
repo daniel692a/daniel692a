@@ -21,7 +21,7 @@
       <li>Ant Design🐜</li>
     </ul>
   </div>
-<h2 align='right'>Focused on Angular & Flutter🤫,I love Data Science📊</h2>
+<h2 align='right'>Focused on Vue and Svelte🤫,Data scientits in progress📊</h2>
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
