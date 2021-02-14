@@ -2,6 +2,13 @@
 <h2 align="center">Frontend Developer👨‍💻</h2>
   <img align='right' src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
   <div align='left'>
+```javascript
+const DanielArmas = {
+  fullName: Daniel Armas Ramírez
+  programmingLanguages: [Javascript, Python, C++],
+  frontendTools: [React, Svelte],
+}
+```
     <h2>Skills🚀</h2>
     <ul style='font-size: 16px'>
       <li>Javascript</li>
@@ -22,10 +29,3 @@
     </ul>
   </div>
 <h2 align='right'>Focused on Vue and Svelte🤫,Data scientist in progress📊</h2>
-```javascript
-const DanielArmas = {
-  fullName: Daniel Armas Ramírez
-  programmingLanguages: [Javascript, Python, C++],
-  frontendTools: [React, Svelte],
-}
-```
