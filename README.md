@@ -22,9 +22,6 @@
     </ul>
   </div>
 <h2 align='right'>Focused on Vue and Svelte🤫,Data scientist in progress📊</h2>
-'''javascript
-let a = 0;
-'''
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
