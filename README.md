@@ -22,10 +22,3 @@
     </ul>
   </div>
 <h2 align='right'>Focused on Vue and Svelte🤫,Data scientist in progress📊</h2>
-```javascript
-const DanielArmas = {
-  fullName: Daniel Armas Ramírez
-  programmingLanguages: [Javascript, Python, C++],
-  frontendTools: [React, Svelte],
-}
-```
