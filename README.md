@@ -22,13 +22,13 @@
     </ul>
   </div>
 <h2 align='right'>Focused on Vue and Svelte🤫,Data scientist in progress📊</h2>
-`const DanielArmas = {
+```const DanielArmas = {
   fullName = "Daniel Armas Ramírez",
   age: 18,
   country: "MX",
   programmingLanguages: ["JavaScript", "Python", "C++"],
   frontendTools: ["React", "Svelte"],
-}`
+}```
 <!--
 **DanielArmR/DanielArmR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
