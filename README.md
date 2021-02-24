@@ -21,4 +21,4 @@
       <li>Ant Design🐜</li>
     </ul>
   </div>
-<h2 align='right'>Focused on Vue and Svelte🤫,Data scientist in progress📊</h2>
+<h2 align='right'>Focused on Svelte🤫,Data scientist in progress📊</h2>
