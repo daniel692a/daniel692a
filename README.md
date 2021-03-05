@@ -5,20 +5,18 @@
     <h2>Skills🚀</h2>
     <ul style='font-size: 16px'>
       <li>Javascript</li>
-      <li>Typescript</li>
       <li>Python🐍</li>
       <li>HTML📦</li>
       <li>CSS📱</li>
-      <li>Node.js💻</li>
       <li>React.js⚛️</li>
     </ul>
   </div>
   <div align='left'>
     <h2>CSS Frameworks</h2>
     <ul style='font-size: 16px'>
-      <li>MaterializeⓂ️</li>
       <li>Bootstrap🅱️</li>
       <li>Ant Design🐜</li>
+      <li>Styled Components🐜</li>
     </ul>
   </div>
 <h2 align='right'>Focused on Svelte🤫,Data scientist in progress📊</h2>
