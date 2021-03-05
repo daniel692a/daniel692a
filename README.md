@@ -16,7 +16,7 @@
     <ul style='font-size: 16px'>
       <li>Bootstrap🅱️</li>
       <li>Ant Design🐜</li>
-      <li>Styled Components🐜</li>
+      <li>Styled Components💅</li>
     </ul>
   </div>
 <h2 align='right'>Focused on Svelte🤫,Data scientist in progress📊</h2>
