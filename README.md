@@ -1,22 +1,16 @@
-<h1 align="center">Hi there, my name is Daniel Armas👋</h1>
-<h2 align="center">Frontend Developer👨‍💻</h2>
-  <img align='right' src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="300"/>
-  <div align='left'>
-    <h2>Skills🚀</h2>
-    <ul style='font-size: 16px'>
-      <li>Javascript</li>
-      <li>Python🐍</li>
-      <li>HTML📦</li>
-      <li>CSS📱</li>
-      <li>React.js⚛️</li>
-    </ul>
-  </div>
-  <div align='left'>
-    <h2>CSS Frameworks</h2>
-    <ul style='font-size: 16px'>
-      <li>Bootstrap🅱️</li>
-      <li>Ant Design🐜</li>
-      <li>Styled Components💅</li>
-    </ul>
-  </div>
-<h2 align='right'>Focused on Svelte🤫,Data scientist in progress📊</h2>
+# Hi there, my name is Daniel Armas👋
+## Frontend Developer👨‍💻
+```javascript
+const DanielArmas = {
+  fullName: 'Daniel Armas Ramírez',
+  age: 18,
+  country: 'MX',
+  programmingLanguages: ['JavaScript', 'Python', 'C++'],
+  frontendTools: ['React', 'Svelte']
+}
+```
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel692a&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel692a&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter: Daniel Armas](https://img.shields.io/twitter/follow/daniel692a?style=social)
+[![GitHub: Daniel Armas](https://img.shields.io/github/followers/daniel692a?style=social)
+## Focused on Svelte🤫
