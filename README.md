@@ -11,6 +11,6 @@ const DanielArmas = {
 ```
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel692a&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel692a&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Twitter: Daniel Armas](https://img.shields.io/twitter/follow/daniel692a?style=social)
+[![Twitter: daniel692a](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdaniel692a)
 [![GitHub: Daniel Armas](https://img.shields.io/github/followers/daniel692a?style=social)
 ## Focused on Svelte🤫
