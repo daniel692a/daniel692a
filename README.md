@@ -1,5 +1,5 @@
-![GitHub Header](./images/header.png)
-## Frontend Developer👨‍💻
+![GitHub Header](images/header.png)
+
 ```javascript
 const DanielArmas = {
   fullName: 'Daniel Armas Ramírez',
