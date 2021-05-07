@@ -1,5 +1,4 @@
-![GitHub Header](./GH Header.png)
-# Hi there, my name is Daniel Armas👋
+![GitHub Header](./images/header.png)
 ## Frontend Developer👨‍💻
 ```javascript
 const DanielArmas = {
