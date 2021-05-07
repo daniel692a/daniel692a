@@ -1,3 +1,4 @@
+![GitHub Header](./GH Header.png)
 # Hi there, my name is Daniel Armas👋
 ## Frontend Developer👨‍💻
 ```javascript
