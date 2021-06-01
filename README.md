@@ -1,4 +1,4 @@
-![GitHub Header](images/header.png)
+![GitHub Header](images/header2.png)
 
 Hello there, my name is Daniel Armas and I'm a Frontend developer, I work with ***React*** and ***Svelte***. I'm interested in learning about ***AI*** and ***ML***.
 ```javascript
