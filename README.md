@@ -37,5 +37,5 @@ const DanielArmas = {
 [![Instagram](https://shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/daniel692a)
 [![Twitter](https://shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/daniel692a)
 [![Linkedin](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/daniel-armas-443994190/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/daniel692a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel62armas@gmail.com)
 [![Medium](https://shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://daniel692a.medium.com/)
