@@ -1,6 +1,7 @@
 ![GitHub Header](images/header2.png)
 
-Hello there, my name is Daniel Armas and I'm a Frontend developer, I work with ***React*** and ***Svelte***. I'm interested in learning about ***AI*** and ***ML***.
+Hello everyone, my name is Daniel, I'm a software developer located in Mexico, I'm passionate about the world of technology, especially Artificial Intelligence and data science.       
+I'm currently working as a backend developer and I'm researching on Machine Learning, I collaborate in both local and national software communities. My dream is to be a ML engineer.
 ```javascript
 const DanielArmas = {
   fullName: 'Daniel Armas Ramírez',
