@@ -1,17 +1,16 @@
 ![GitHub Header](images/header2.png)
 
-Hello everyone, my name is Daniel, I'm a software developer located in Mexico, I'm passionate about the world of technology, especially Artificial Intelligence and data science.       
-I'm currently working as a backend developer and I'm researching on Machine Learning, I collaborate in both local and national software communities. My dream is to be a ML engineer.
+Hello everyone, my name is Daniel, *I'm a software developer located in Mexico, **I'll soon study data science at [ESCOM-IPN](https://www.escom.ipn.mx/)***.      
+I'm currently researching about *Artificial Intelligence*, I collaborate in both local and national software communities. **My dream is to be a Machine Learning engineer.**
 ```javascript
 const DanielArmas = {
   fullName: 'Daniel Armas Ramírez',
   age: 18,
   country: 'MX',
-  user: 'daniel692a',
   birthday: '06/09/2002',
 }
 ```
-## Tools
+### Tools
 [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=for-the-badge)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge)](https://julialang.org/)
@@ -26,8 +25,6 @@ const DanielArmas = {
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)](https://svelte.dev/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/en/2.0.x/#)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)](https://www.sqlite.org/index.html)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)](https://keras.io/)
 
