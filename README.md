@@ -1,6 +1,6 @@
 ![GitHub Header](images/header2.png)
 
-Hello everyone, my name is Daniel, *I'm a software developer located in Mexico, **I'll soon study data science at [ESCOM-IPN](https://www.escom.ipn.mx/)***.      
+Hello everyone, my name is Daniel, *I'm a software developer located in Mexico and **future data science studen at [ESCOM](https://www.escom.ipn.mx/)***.      
 I'm currently researching about *Artificial Intelligence*, I collaborate in both local and national software communities. **My dream is to be a Machine Learning engineer.**
 ```javascript
 const DanielArmas = {
