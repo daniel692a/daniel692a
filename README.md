@@ -1,11 +1,11 @@
 ![GitHub Header](images/header2.png)
 
 Hello everyone, my name is Daniel, *I'm a software developer located in Mexico and **future data science studen at [ESCOM](https://www.escom.ipn.mx/)***.      
-I'm currently researching about *Artificial Intelligence*, I collaborate in both local and national software communities. **My dream is to be a Machine Learning engineer.**
+I'm currently learning about algorithms and computer science, I collaborate in both local and national software communities. **My dream is to be a Machine Learning engineer.**
 ```javascript
 const DanielArmas = {
   fullName: 'Daniel Armas Ramírez',
-  age: 18,
+  age: 19,
   country: 'MX',
   birthday: '06/09/2002',
 }
@@ -27,6 +27,8 @@ const DanielArmas = {
 [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/en/2.0.x/#)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)](https://keras.io/)
+[![FastAPI](https://shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)](https://fastapi.tiangolo.com/)
+[![Express](https://shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com/es/)
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel692a&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel692a&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,6 +37,6 @@ const DanielArmas = {
 [![HackerRank](https://shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/daniel692a)
 [![Instagram](https://shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/daniel692a)
 [![Twitter](https://shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/daniel692a)
-[![Linkedin](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/daniel-armas-443994190/)
+[![Linkedin](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/daniel692a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel62armas@gmail.com)
 [![Medium](https://shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://daniel692a.medium.com/)
