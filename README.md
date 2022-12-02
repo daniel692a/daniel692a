@@ -5,7 +5,7 @@ I'm currently learning about algorithms and computer science, I collaborate in b
 ```javascript
 const DanielArmas = {
   fullName: 'Daniel Armas Ramírez',
-  age: 19,
+  age: 20,
   country: 'MX',
   birthday: '06/09/2002',
 }
