@@ -34,9 +34,9 @@ const DanielArmas = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel692a&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Media
+[![Codeforces](https://shields.io/badge/-Codeforces-1990CE?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/daniel692a)
 [![HackerRank](https://shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/daniel692a)
-[![Instagram](https://shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/daniel692a)
-[![Twitter](https://shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/daniel692a)
+[![Instagram](https://shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/darmasrmz)
 [![Linkedin](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/danielarmasrmz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel62armas@gmail.com)
 [![Medium](https://shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://daniel692a.medium.com/)
